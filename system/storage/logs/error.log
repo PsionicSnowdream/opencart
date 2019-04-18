@@ -1,0 +1,10 @@
+2019-04-18 9:46:19 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'p-181_admin'@'localhost' (using password: YES) in D:\OpenServer\OSPanel\domains\opencart\system\library\db\mysqli.php on line 7
+2019-04-18 9:46:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\OSPanel\domains\opencart\system\library\db\mysqli.php on line 10
+2019-04-18 9:46:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\OSPanel\domains\opencart\system\library\db\mysqli.php on line 10
+2019-04-18 9:46:19 - PHP Notice:  Undefined variable: mysql in D:\OpenServer\OSPanel\domains\opencart\install\controller\install\step_3.php on line 281
+2019-04-18 9:46:19 - PHP Notice:  Trying to get property of non-object in D:\OpenServer\OSPanel\domains\opencart\install\controller\install\step_3.php on line 281
+2019-04-18 9:46:43 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'p-18166_snowdream' in D:\OpenServer\OSPanel\domains\opencart\system\library\db\mysqli.php on line 7
+2019-04-18 9:46:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\OSPanel\domains\opencart\system\library\db\mysqli.php on line 10
+2019-04-18 9:46:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\OpenServer\OSPanel\domains\opencart\system\library\db\mysqli.php on line 10
+2019-04-18 9:46:43 - PHP Notice:  Undefined variable: mysql in D:\OpenServer\OSPanel\domains\opencart\install\controller\install\step_3.php on line 281
+2019-04-18 9:46:43 - PHP Notice:  Trying to get property of non-object in D:\OpenServer\OSPanel\domains\opencart\install\controller\install\step_3.php on line 281
